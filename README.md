@@ -7,7 +7,8 @@ Developed based on the class "xstructure" in AFLOW (c++) and Aflowpy (python-bas
 Current version only supports POSCAR in vasp5 format
 
 
-%usage examples:
+%Usage examples:
+%Read a POSCAR 
 a = xstructure('SrTiO3.vasp')
 
 %Print POSCAR
