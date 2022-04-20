@@ -11,8 +11,11 @@ Current version only supports POSCAR in vasp5 format
 %Read a POSCAR:  a = xstructure('SrTiO3.vasp')
 
 %Call title of a POSCAR: a.title
+
 %Call lattice matrix: a.lattice
+
 %Call coordinate: a.coord
+
 %Other Call operations: a.scale, a.species. a.num_each_type, a.isDirect, a.isCart, a.coord_type, a.natm
 
 
