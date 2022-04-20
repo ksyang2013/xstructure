@@ -8,7 +8,7 @@ Current version only supports POSCAR in vasp5 format
 
 
 %Usage examples:
-%Read a POSCAR 
+%Read a POSCAR
 a = xstructure('SrTiO3.vasp')
 
 %Print POSCAR
